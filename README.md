@@ -4,7 +4,7 @@ This is a weather forecast program. This program asks the user for a city, and s
 
 I did this to demonstrate how JavaScript can be used with webpages, and to show how already created APIs can help a lot in coding. I also used Visual Studio Code to demonstrate this can be done there.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uvjS-FiTT5E)
 
 # Development Environment
 
